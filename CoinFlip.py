@@ -33,6 +33,7 @@ def random_num_generator_recursion():
         elif randomnum == 0:
             print("tails")
     else:
+        print("have a good day, goodbye")
         exit()
 
 random_num_generator()
