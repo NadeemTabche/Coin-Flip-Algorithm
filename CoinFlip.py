@@ -19,7 +19,7 @@ def random_num_generator():
              number_of_times = number_of_times - 1 
     else:
         print("user input error")
-        number_of_times = 1000
+        number_of_times = 100000000
         while number_of_times > 0:
           random_num_generator_recursion()
           number_of_times = number_of_times - 1 
